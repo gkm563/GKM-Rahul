@@ -14,13 +14,13 @@ export const CONTRIBUTORS = [
   },
   {
     id: 2,
-    name: "Rahul (Collaborator)",
-    github: "Rahul-Contributor",
+    name: "Rahul Sharma (Collaborator)",
+    github: "Rahul-Dev",
     role: "Full Stack Contributor",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul",
     bio: "Learning Git branching, Pull Requests (PRs), code reviews, and automatic Vercel deployment.",
-    skills: ["JavaScript", "HTML/CSS", "Git", "Pull Requests"],
-    mergedDate: "Pending PR Merge"
+    skills: ["JavaScript", "React", "Git Branching", "Pull Requests"],
+    mergedDate: "2026-08-31 (PR Practice)"
   }
 ];
 
